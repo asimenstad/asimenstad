@@ -3,7 +3,7 @@
   
   ### Hello, I’m Anna 	:frog:
   
-  I am a front-end developer student from Norway.
+  I am a front-end developer student from Norway. I have a soft spot for design and love CSS.
   <div>
     <a href="https://www.linkedin.com/in/anna-simenstad-9875a421a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
