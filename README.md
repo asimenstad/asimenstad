@@ -2,7 +2,7 @@
   
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="200"/>
   
-  ### Hello
+  # Hello
   
 I’m Anna, a frontend developer with a love for UI/UX design. 
 
